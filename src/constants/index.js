@@ -151,7 +151,7 @@ const experiences = [
     company_name: "O3DynamiX",
     icon: companylogos.o3dynamix,
     iconBg: "#000000",
-    date: "Nov 2024 - Current",
+    date: "Nov 2024 - Present",
     StartDate : "2024-11-29",
     points: [""],
   },
